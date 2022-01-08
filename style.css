@@ -1,0 +1,181 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#stay-focused{
+    font-size: 40px;
+}
+.mission{
+    color: rgb(255, 232, 127);
+    font-size: 40px;
+}
+.first{
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.half-width{
+    width: 50%;
+    margin-right: 10%;
+}
+.half-width-div{
+    width: 80%;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.half-width-div img{
+    width: 40%;
+    
+}
+#border{
+    border-left: 5px solid;
+    border-image:tomato;
+    border-image-slice:1;
+    border-right: 2px;
+}
+
+.half-width img{
+    width: 50%;
+    margin-left: 30%;
+}
+.link-button{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    background-color: blueviolet;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+.blue{
+    color: blueviolet;
+}
+#center{
+text-align: center;
+font-size: 40px;
+}
+
+#first-image{
+    background-color: rgb(255, 196, 250);
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+    border-radius: 5%;
+    width: 25%;
+    
+}
+#second-image{
+    background-color: rgb(255, 252, 205);
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+    border-radius: 5%;
+    width: 25%;
+    
+}
+#third-image{
+    background-color: rgb(255, 220, 249);
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 5%;
+    border-radius: 5%;
+    width: 25%;
+
+}
+.third{
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top:5%;
+}
+#four-image{
+ width: 70%;
+}
+.link-button-two{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    background-color: rgb(226, 223, 43);
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+#third-div{
+    margin-top: 8%;
+}
+.four{
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top:5%;
+}
+#five-image{
+    width: 70%;
+    margin-left: 30%;
+    margin-right: 10%;
+   }
+   .link-button-three{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    background-color: rgb(226, 43, 180);
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+#four-div{
+    margin-top:8%;
+}
+.corona{
+    color: hotpink;
+}
+#go-corona{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 40px;
+}
+.five{
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top:0%;
+}
+#six-image{
+    width: 80%;
+    margin-left: 50%;
+    
+   }
+.five-div{
+    margin-top: 0%;
+    margin-left: 15%;
+    
+}
+
+.link-button-four{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    background-color: tomato ;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+#finish1{
+    color:white;
+}
+#finish2{
+    color: chocolate;
+}
+footer h1{
+    font:bold;
+    font-style: oblique;
+}
+footer p{
+    color: whitesmoke;
+    font-style: italic;
+}
